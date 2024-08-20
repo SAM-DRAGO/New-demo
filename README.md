@@ -1,3 +1,4 @@
 # New-demo
 This is my first Git Repository.
-Author Samuel
+<br>
+Author - Samuel
